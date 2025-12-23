@@ -1,4 +1,5 @@
 🌾 Rice Leaf Disease Detection using Deep Learning
+_____________________________________________________________
 
 📌 Project Overview
 
@@ -7,7 +8,7 @@ This project uses Deep Learning with TensorFlow to automatically detect rice lea
 
 The model classifies rice leaves into three disease categories using a Convolutional Neural Network (CNN).
 
-🎯 Objectives
+🎯 Objectives :-
 
 Detect rice leaf diseases from images
 
@@ -17,7 +18,7 @@ Improve early disease identification
 
 Provide a scalable AI-based solution for agriculture
 
-🦠 Disease Classes
+🦠 Disease Classes :-
 
 The model predicts the following classes:
 
@@ -27,7 +28,7 @@ Brown Spot
 
 Leaf Smut
 
-🧠 Technology Stack
+🧠 Technology Stack :-
 
 Programming Language: Python
 
@@ -39,25 +40,9 @@ Libraries: NumPy, Matplotlib, OpenCV
 
 Model Type: Convolutional Neural Network (CNN)
 
-📂 Project Structure
-CAPSTONE/
-│
-├── Rice Leaf Disease Detection/
-│   ├── train/
-│   │   ├── Bacterial leaf blight/
-│   │   ├── Brown spot/
-│   │   └── Leaf smut/
-│   │
-│   ├── val/
-│   │   ├── Bacterial leaf blight/
-│   │   ├── Brown spot/
-│   │   └── Leaf smut/
-│   │
-│   ├── Rice_Leaf_Disease_Detection.ipynb
-│   ├── best_rice_leaf_model.h5
-│   └── README.md
 
 ⚙️ How to Run the Project
+
 1️⃣ Install Required Libraries
 pip install tensorflow numpy matplotlib opencv-python
 
